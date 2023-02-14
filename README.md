@@ -1,0 +1,1 @@
+# cp-badge-generator
